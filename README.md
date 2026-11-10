@@ -80,16 +80,17 @@ Collected coins are saved and remain available across game sessions, while the c
 
 ## 🖼️ Screenshots
 
-Screenshots and gameplay previews will be added here.
+## Screenshots
 
-<!-- Suggested screenshots:
-- Main Menu
-- Gameplay
-- Combat
-- Collectibles and HUD
-- Game Over Screen
-- Ending Screen
--->
+### Main Menu
+![Main Menu](Screenshots/main-menu.png)
+
+### Gameplay
+![Gameplay](Screenshots/gameplay1.png)
+![Gameplay](Screenshots/gameplay2.png)
+
+### Ending
+![Ending](Screenshots/ending.png)
 
 ## 🎓 Project Information
 
