@@ -63,7 +63,7 @@ To open and run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+   git clone https://github.com/homa-mh/Pixel-Adventure-Unity.git
    ```
 
 2. Open Unity Hub.
